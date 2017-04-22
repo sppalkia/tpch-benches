@@ -1,0 +1,3 @@
+To install OpenMP on Mac:
+* brew install clang-openmp
+* clang-omp -liomp5 -fopenmp <inp> -o <out>
